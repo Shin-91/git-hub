@@ -1,0 +1,5 @@
+#Logs
+Logs
+*.log
+
+#Dependency directories
